@@ -33,6 +33,8 @@ module.exports = {
     title: 'Playlist API',
     version: '2.0.0',
     description:
+      '**SE4458 – Assignment 2** · Group 2 – Playlist · Mert Aydul · ' +
+      '[Source code](https://github.com/Idull4/playlist-api)\n\n' +
       'A simple REST API for managing a music library and playlists.\n\n' +
       '- **Songs** live in a shared library.\n' +
       '- **Playlists** reference library songs in a custom order; one song can be in several playlists.\n' +

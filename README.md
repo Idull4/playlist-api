@@ -1,5 +1,7 @@
 # Group 2 Playlist API
 
+**SE4458 – Assignment 2: Develop/Deploy Simple REST API** · Group 2 – Playlist · Mert Aydul
+
 A simple REST API for managing a music library and playlists, built with **Node.js + Express**.
 Data is kept in an **in-memory database**. API docs are served with **Swagger UI**.
 
